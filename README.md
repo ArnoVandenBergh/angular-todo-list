@@ -1,5 +1,9 @@
 # TodoListApp
 
+This is a simple todo list app, the only purpose is to get the hang of Angular.
+
+# Angular generated documentation
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
 ## Development server
